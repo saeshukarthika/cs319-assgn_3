@@ -1,0 +1,76 @@
+[
+    {
+        "id": "1",
+        "title": "Cinnamon Roll",
+        "price": "4.00",
+        "description": "Satisfy your sweet cravings with our cinnamon rolls: crafted with soft, pillowy dough, generously laced with a cinnamon-infused filling, baked to golden perfection and topped with a luscious cream cheese icing.",
+        "category": "Pastry",
+        "image": "cinnamonImage",
+        "rating": {
+            "rate": 4.5,
+            "count": 120
+        }
+    },
+    {
+        "id": "2",
+        "title": "Croissant",
+        "price": "3.00",
+        "description": "Indulge in a freshly-baked croissant: handcrafted with the finest ingredients and traditional techniques, our croissants offer a taste of French craftsmanship. Delicately flaky on the outside with a buttery, melt-in-your-mouth interior.",
+        "category": "Pastry",
+        "image": "croissantImage",
+        "rating": {
+            "rate": 4.2,
+            "count": 98
+        }
+    },
+    {
+        "id": "3",
+        "title": "Danish Pastry",
+        "price": "3.50",
+        "description": "Treat yourself with the irresistible charm of Denmark with our Danishes: handcrafted with traditional recipes, our pastries boast flaky layers enveloping rich fillings like creamy custard, sweet fruit compote, and delicate almond paste.",
+        "category": "Pastry",
+        "image": "danishImage",
+        "rating": {
+            "rate": 4.7,
+            "count": 135
+        }
+    },
+    {
+        "id": "4",
+        "title": "Eclair Pastry",
+        "price": "3.50",
+        "description": "Experience elegance with our eclairs: delight in the delicate choux pastry shell, generously filled with luxurious pastry cream and enrobed in a glossy layer of premium chocolate ganache.",
+        "category": "Pastry",
+        "image": "eclairImage",
+        "rating": {
+            "rate": 4.6,
+            "count": 110
+        }
+    },
+    {
+        "id": "5",
+        "title": "Puff Pastry",
+        "price": "3.00",
+        "description": "Elevate your taste experience with our exquisite puff pastries: a delicate fusion of light, flaky layers and rich, buttery goodness. Whether filled with savory delights like cheese and spinach or sweet sensations like fruit compote or chocolate, our puff pastries are a versatile delight suitable for any occasion.",
+        "category": "Pastry",
+        "image": "puffImage",
+        "rating": {
+            "rate": 4.3,
+            "count": 105
+        }
+    },
+    {
+        "id": "6",
+        "title": "Sourdough",
+        "price": "4.00",
+        "description": "Enjoy the delicious tang of sourdough bread: a crusty outside and soft, airy inside, with a unique sour taste. Made using traditional methods, each loaf showcases expert craftsmanship and timeless baking techniques. From rustic rounds to long, crusty loaves, sourdough bread delights with its rich flavor and satisfying texture, celebrating the art of baking in every bite.",
+        "category": "Bread",
+        "image": "sourImage",
+        "rating": {
+            "rate": 4.8,
+            "count": 150
+        }
+    }
+]
+
+    
